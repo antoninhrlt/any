@@ -1,0 +1,8 @@
+[package]
+name = "any"
+description = "Transform any object into any(thing)"
+authors = ["Antonin Hérault <antonhrlt@proton.me>"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
